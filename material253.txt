@@ -1,0 +1,37 @@
+symbol description
+ click on symbol, turns to red. then click where ever we want, to insert
+--1) now we need to insert data, so, right click and "Edit" 
+     set= oprand
+     to=value
+
+2) RAPTOR CREATED BY MARTIN CARL..
+
+3)ctrl n= new file
+ -- adiition : ex; a=10
+                   b=10
+                   a+b in statement box
+
+4) test case format is important
+    ex ; addition is 20
+     format is "addition is"+c
+   -- note : for value , no quotes
+             for char , quotes
+             + is for concatenation.
+--- for addition of 5 and 15 is 30
+         "addition of" +a+ "and"+b+ "is" +c
+
+5) to find square
+  n=5
+res=n*n
+  -- enter promp means ststements like "addition is,.." and in 2nd box, variable name.
+
+6)Q: program to convert dollers to rupees?
+7) program to convert rupeesn to dollar.
+8)to calculate simple interest
+9) to swap two nums using temporary variable
+    sol: a=10, b=15,
+          temp=a
+          a=b;b=temp.  
+10) area of a square
+11) area of rectangle
+12) to find total, avg of marks of 5 sub of student.      
